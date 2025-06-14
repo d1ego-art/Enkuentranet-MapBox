@@ -5,7 +5,7 @@ import './App.css';
 import Navbar from './assets/components/Navbar';
 import HeroSection from './assets/components/HeroSection';
 import EmprendedoresSection from './assets/components/EmprendedoresSection';
-import EncontrarSection from './assets/components/EncontrarSection';
+import EncontrarSection from './assets/components/EncontrarSection'
 import AyudaSection from './assets/components/AyudaSection';
 import Footer from './assets/components/Footer';
 import Login from './assets/components/Login';
