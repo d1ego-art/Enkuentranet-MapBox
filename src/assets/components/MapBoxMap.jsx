@@ -3,7 +3,6 @@ import Map, { Marker } from 'react-map-gl/mapbox'; //archivo de node_modules
 import 'mapbox-gl/dist/mapbox-gl.css';
 
 const MAPBOX_TOKEN = 'pk.eyJ1IjoiZDFlZ28tYXJ0IiwiYSI6ImNtYnU0ZDJtdzAwZHEybG45OWo1cTIyZzEifQ.8Y_DuVk8DEoD-iNp17_klQ'; //token mapa personal 
-
 const mapStyle = "mapbox://styles/d1ego-art/cmbv4rj3l019d01s6ckfj601j"; // Puedes cambiar el estilo
 
 const MapboxMap = ({ latitude = -33.449, longitude = -70.671, zoom = 12 , pitch = 20}) => {
